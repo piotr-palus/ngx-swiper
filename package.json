@@ -1,5 +1,5 @@
 {
-  "name": "ngx-swiper-wrapper",
+  "name": "ngx-swiper",
   "description": "Angular wrapper library for Swiper",
   "bugs": "https://github.com/zefoy/ngx-swiper-wrapper/issues",
   "version": "10.0.0",
